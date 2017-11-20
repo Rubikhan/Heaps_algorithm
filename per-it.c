@@ -7,8 +7,6 @@
 int g_i;
 int *g_num_array;
 
-int qwq_factorial(int a);
-
 int qwe_factorial(int a)
 {
 	if (a == 0)
